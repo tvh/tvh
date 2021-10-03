@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvh&label=Profile%20views&color=0e75b6&style=flat" alt="tvh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tvh&margin-w=15&margin-h=15&rank=S,SS,SSS,SECRET" alt="tvh" /></a> </p>
-
 - 📫 How to reach me **tvh@tvholtz.de**
 
 <h3 align="left">Connect with me:</h3>
